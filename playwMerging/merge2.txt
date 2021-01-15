@@ -1,1 +1,2 @@
 Another document
+And this change is right on top of the other
